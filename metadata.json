@@ -1,0 +1,6 @@
+{
+  "name": "THE AURA WORKERS",
+  "description": "Verified trade marketplace connecting customers with licensed plumbers, painters, and master craftspeople through transparent pricing, real-time escrow job tracking, verified reviews, and AES-256 encrypted chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
